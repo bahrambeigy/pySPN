@@ -1,7 +1,8 @@
 pySPN
 =====
 
-Simple SPN (Substitution Permutation Network) implementation for educational purposes
+Simple SPN (Substitution Permutation Network) implementation for educational purposes.
+
 Full persian help can be found in the Help folder. 
 
 Requirements : 
